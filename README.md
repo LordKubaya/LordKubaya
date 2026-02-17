@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋 I'm Carlos 
 
-<!--
-**LordKubaya/LordKubaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Software engineer focused on **distributed systems**
+- 🔗 Working on **blockchain interoperability** (connectors, cross-ledger communication, SATP)
+- 🛠️ Open-source **Maintainer** in the Linux Foundation Decentralized Trust ecosystem (🌵**Hyperledger Cacti**🌵) 
+- 🧪 First Stage Researcher (R1) at **INESC-ID** (Semantic Blockchain Interoperability)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Tech I use
+
+- TypeScript, JavaScript, Java, Python, Node.js, Express, Solidity, gRPC, OpenAPI, Docker, GitHub Actions
+
+---
+
+#### Find me around the web
+
+- 💼 LinkedIn: https://www.linkedin.com/in/CarlosAmaro
+- 🧑‍💻 GitHub: https://github.com/LordKubaya
+- ✉️ Email: carlosrscamaro@gmail.com
+
+---
+
+#### Fun fact
+
+- 🎶 I’m a clarinetist 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=LordKubaya&theme=light)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
