@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Software engineer focused on **distributed systems**
 - 🔗 Working on **blockchain interoperability** (connectors, cross-ledger communication, SATP)
-- 🛠️ Open-source **Maintainer** in the Linux Foundation Decentralized Trust ecosystem (🌵**Hyperledger Cacti**🌵) 
+- 🛠️ Open-source **Maintainer** of 🌵**Hyperledger Cacti**🌵, a Linux Foundation Decentralized Trust project
 - 🧪 First Stage Researcher (R1) at **INESC-ID** (Semantic Blockchain Interoperability)
 
 ---
