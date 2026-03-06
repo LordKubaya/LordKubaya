@@ -16,7 +16,7 @@
 
 #### Find me around the web
 
-- 💼 LinkedIn: https://www.linkedin.com/in/CarlosAmaro
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-amaro-1284b020a/
 - 🧑‍💻 GitHub: https://github.com/LordKubaya
 - ✉️ Email: carlosrscamaro@gmail.com
 
